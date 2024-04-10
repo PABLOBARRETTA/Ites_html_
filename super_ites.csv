@@ -1,0 +1,20 @@
+idproducto;codigoean;descripcion;tipoproducto;preciounitario;iva
+1;1230000000000;arroz;almacen;40.60;21
+2;7790000000000;lavandina;almacen;100,3;21
+3;7800000000000;detergente ;limpieza;80.23;21
+4;7780000000000;coca cola lata;bebida;86,3;21
+5;1230000000000;leche;lacteos;158,3;21
+6;4570000000000;lechuga;verduleria;1563,8;10,5
+7;7540000000000;shampoo;perfumeria;3265,35;21
+8;2590000000000;traviata;almacen;856,25;21
+9;7850000000000;te;almacen;100,58;21
+10;1450000000000;lentejas;almacen;569,45;21
+11;3270000000000;vino;bebidas;1478,5;21
+12;7490000000000;manteca;lacteos;1205,65;21
+13;1480000000000;mayonesa;almacen;2958,35;21
+14;3570000000000;tomate;verduleria;500,85;10,5
+15;3570000000000;zapallitos;verduleria;968,32;10,5
+16;9990000000000;vino;bebida;789,65;21
+17;8600000000000;atun;almacen;1546,35;21
+;;;;;
+;;;;;
